@@ -87,7 +87,7 @@ h3{
         font-size:30px;
         font-weight: 800;
     }
-    .content{
+    .parent .content{
         width:98%;
         padding-bottom: 20px;
         margin:5px;
